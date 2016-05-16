@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Draw</string>
+    <string name="drawline">画线</string>
+    <string name="drawRec">画矩形</string>
+    <string name="circle">画圆</string>
+    <string name="drawTrigon">画三角形</string>
+    <string name="drawArc">画扇形</string>
+</resources>
